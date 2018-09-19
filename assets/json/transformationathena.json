@@ -1,0 +1,679 @@
+{
+    "course": [
+        {
+            "course_id": "600",
+            "course_code": "Acct_Fundamentals",
+            "course_title": "Accounting Fundamentals",
+            "course_desc": "Learn Fundamentals of Accounting",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "600"
+        },
+        {
+            "course_id": "13300",
+            "course_code": "android_dev",
+            "course_title": "Android App Development",
+            "course_desc": "Not Available",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "13300"
+        },
+        {
+            "course_id": "410",
+            "course_code": "corporate_calling_default",
+            "course_title": "Corporate Calling",
+            "course_desc": "Corporate Calling",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "410"
+        },
+        {
+            "course_id": "450",
+            "course_code": "corporate_calling_lbreader",
+            "course_title": "Corporate Calling",
+            "course_desc": "Corporate Calling",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "450"
+        },
+        {
+            "course_id": "17040",
+            "course_code": "digital_literacy",
+            "course_title": "Digital Literacy",
+            "course_desc": "Not Available",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "17040"
+        },
+        {
+            "course_id": "17039",
+            "course_code": "Dig_Lit_PRE_assessment",
+            "course_title": "Digital Literacy Pre Assessment",
+            "course_desc": "Digital Literacy Pre Assessment",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "17039"
+        },
+        {
+            "course_id": "15000",
+            "course_code": "email_etiquette",
+            "course_title": "Email Etiquette",
+            "course_desc": "Email Etiquette",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "15000"
+        },
+        {
+            "course_id": "18000",
+            "course_code": "employability_skills",
+            "course_title": "Employability Skills",
+            "course_desc": "Not Available",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "18000"
+        },
+        {
+            "course_id": "19020",
+            "course_code": "English_Bangla_Cert_07",
+            "course_title": "Learn English from Bangla - Certificate 07",
+            "course_desc": "Usage of Prepositions",
+            "certificate_level": "7",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "19020"
+        },
+        {
+            "course_id": "19000",
+            "course_code": "English_Bangla_Cert_08",
+            "course_title": "Learn English from Bangla - Certificate 08",
+            "course_desc": "Advance Structuring Techniques",
+            "certificate_level": "8",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "19000"
+        },
+        {
+            "course_id": "10700",
+            "course_code": "English_cert_01",
+            "course_title": "Learn English - Certificate 01",
+            "course_desc": "Alphabets & Numbers",
+            "certificate_level": "1",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10700"
+        },
+        {
+            "course_id": "10720",
+            "course_code": "English_cert_02",
+            "course_title": "Learn English - Certificate 02",
+            "course_desc": "100 new words",
+            "certificate_level": "2",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10720"
+        },
+        {
+            "course_id": "10740",
+            "course_code": "English_cert_03",
+            "course_title": "Learn English - Certificate 03",
+            "course_desc": "50 Short Sentences",
+            "certificate_level": "3",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10740"
+        },
+        {
+            "course_id": "10600",
+            "course_code": "English_cert_04",
+            "course_title": "Learn English - Certificate 04",
+            "course_desc": "Sentence Construction",
+            "certificate_level": "4",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10600"
+        },
+        {
+            "course_id": "10620",
+            "course_code": "English_cert_05",
+            "course_title": "Learn English - Certificate 05",
+            "course_desc": "Articles & Tenses",
+            "certificate_level": "5",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10620"
+        },
+        {
+            "course_id": "10640",
+            "course_code": "English_cert_06",
+            "course_title": "Learn English - Certificate 06",
+            "course_desc": "Voice Modulation & Structuring",
+            "certificate_level": "6",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10640"
+        },
+        {
+            "course_id": "10660",
+            "course_code": "English_cert_07",
+            "course_title": "Learn English - Certificate 07",
+            "course_desc": "Prepositions",
+            "certificate_level": "7",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10660"
+        },
+        {
+            "course_id": "10680",
+            "course_code": "English_cert_08",
+            "course_title": "Learn English - Certificate 08",
+            "course_desc": "Advance Structuring Techniques",
+            "certificate_level": "8",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10680"
+        },
+        {
+            "course_id": "10100",
+            "course_code": "English_cert_09",
+            "course_title": "Learn English - Certificate 09",
+            "course_desc": "A recap on English grammar fundamentals",
+            "certificate_level": "9",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10100"
+        },
+        {
+            "course_id": "10200",
+            "course_code": "English_cert_10",
+            "course_title": "Learn English - Certificate 10",
+            "course_desc": "Think in English",
+            "certificate_level": "10",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10200"
+        },
+        {
+            "course_id": "10300",
+            "course_code": "English_cert_11",
+            "course_title": "Learn English - Certificate 11",
+            "course_desc": "Corporate / Official Communications",
+            "certificate_level": "11",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10300"
+        },
+        {
+            "course_id": "10400",
+            "course_code": "English_cert_12",
+            "course_title": "Learn English - Certificate 12",
+            "course_desc": "Day-to-day transactions",
+            "certificate_level": "12",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10400"
+        },
+        {
+            "course_id": "10420",
+            "course_code": "English_cert_13",
+            "course_title": "Learn English - Certificate 13",
+            "course_desc": "Day-to-day transactions",
+            "certificate_level": "13",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10420"
+        },
+        {
+            "course_id": "10440",
+            "course_code": "English_cert_14",
+            "course_title": "Learn English - Certificate 14",
+            "course_desc": "Not Available",
+            "certificate_level": "14",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10440"
+        },
+        {
+            "course_id": "10460",
+            "course_code": "English_cert_15",
+            "course_title": "Learn English - Certificate 15",
+            "course_desc": "Not Available",
+            "certificate_level": "15",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "10460"
+        },
+        {
+            "course_id": "31000",
+            "course_code": "English_Kannada_Cert_01",
+            "course_title": "Learn English - Certificate 01",
+            "course_desc": "Learn Alphabets and Numbers",
+            "certificate_level": "1",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "31000"
+        },
+        {
+            "course_id": "31020",
+            "course_code": "English_Kannada_Cert_02",
+            "course_title": "Learn English - Certificate 02",
+            "course_desc": "Learn English through Kannada",
+            "certificate_level": "2",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "31020"
+        },
+        {
+            "course_id": "31060",
+            "course_code": "English_Kannada_Cert_04",
+            "course_title": "Learn English - Certificate 04",
+            "course_desc": "Learn English through Kannada",
+            "certificate_level": "4",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "31060"
+        },
+        {
+            "course_id": "31080",
+            "course_code": "English_Kannada_Cert_05",
+            "course_title": "Learn English - Certificate 05",
+            "course_desc": "Learn English through Kannada",
+            "certificate_level": "5",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "31080"
+        },
+        {
+            "course_id": "31100",
+            "course_code": "English_Kannada_Cert_06",
+            "course_title": "Learn English - Certificate 06",
+            "course_desc": "Learn English through Kannada",
+            "certificate_level": "6",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "31100"
+        },
+        {
+            "course_id": "31120",
+            "course_code": "English_Kannada_Cert_07",
+            "course_title": "Learn English - Certificate 07",
+            "course_desc": "Learn English through Kannada",
+            "certificate_level": "7",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "31120"
+        },
+        {
+            "course_id": "31140",
+            "course_code": "English_Kannada_Cert_08",
+            "course_title": "Learn English - Certificate 08",
+            "course_desc": "Learn English through Kannada",
+            "certificate_level": "8",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "31140"
+        },
+        {
+            "course_id": "31040",
+            "course_code": "English_Kannada_Cert_3",
+            "course_title": "Learn English - Certificate 03",
+            "course_desc": "Learn English through Kannada",
+            "certificate_level": "3",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "31040"
+        },
+        {
+            "course_id": "17020",
+            "course_code": "financial_literacy",
+            "course_title": "Financial Literacy",
+            "course_desc": "Not Available",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "17020"
+        },
+        {
+            "course_id": "17019",
+            "course_code": "Fin_Lit_PRE_assessment",
+            "course_title": "Financial Literacy Pre Assessment",
+            "course_desc": "Financial Literacy Pre Assessment",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "17019"
+        },
+        {
+            "course_id": "700",
+            "course_code": "Front-End_Web_Development_Foundation",
+            "course_title": "Basic Web Development",
+            "course_desc": "A Foundation in Web Development",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "700"
+        },
+        {
+            "course_id": "17000",
+            "course_code": "GDM",
+            "course_title": "Global Delivery Model",
+            "course_desc": "Not Available",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "17000"
+        },
+        {
+            "course_id": "15060",
+            "course_code": "group_disscussion",
+            "course_title": "Group Discussion",
+            "course_desc": "Group Discussion",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "15060"
+        },
+        {
+            "course_id": "16040",
+            "course_code": "impression_mgmt",
+            "course_title": "Impression Management",
+            "course_desc": "Group Discussion",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "16040"
+        },
+        {
+            "course_id": "15040",
+            "course_code": "interview_skills",
+            "course_title": "Interview Skills",
+            "course_desc": "Interview Skills",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "15040"
+        },
+        {
+            "course_id": "16020",
+            "course_code": "ipr_empolyability",
+            "course_title": "Corporate Induction",
+            "course_desc": "A glimpse into corporate processes",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "16020"
+        },
+        {
+            "course_id": "18020",
+            "course_code": "ist",
+            "course_title": "Initiating Self Transformation (IST)",
+            "course_desc": "Not Available",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "18020"
+        },
+        {
+            "course_id": "12000",
+            "course_code": "JAVA-Assessment-1",
+            "course_title": "JAVA-Assessment 1",
+            "course_desc": "JAVA-Assessment 1",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "12000"
+        },
+        {
+            "course_id": "12001",
+            "course_code": "JAVA-Assessment-2",
+            "course_title": "JAVA-Assessment 2",
+            "course_desc": "JAVA-Assessment 2",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "12001"
+        },
+        {
+            "course_id": "12002",
+            "course_code": "JAVA-Assessment-3",
+            "course_title": "JAVA-Assessment 3",
+            "course_desc": "JAVA-Assessment 3",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "12002"
+        },
+        {
+            "course_id": "12003",
+            "course_code": "JAVA-Assessment-4",
+            "course_title": "JAVA-Assessment 4",
+            "course_desc": "JAVA-Assessment 4",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "12003"
+        },
+        {
+            "course_id": "12005",
+            "course_code": "JAVA-Assessment-6",
+            "course_title": "JAVA-Assessment 6",
+            "course_desc": "JAVA-Assessment 6",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "12005"
+        },
+        {
+            "course_id": "12006",
+            "course_code": "JAVA-Assessment-7",
+            "course_title": "JAVA-Assessment 7",
+            "course_desc": "JAVA-Assessment 7",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "12006"
+        },
+        {
+            "course_id": "400",
+            "course_code": "JavaPower_bronze",
+            "course_title": "JAVA Power - Core Java",
+            "course_desc": "Develop your JAVA skills in the context of business.",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "400"
+        },
+        {
+            "course_id": "13000",
+            "course_code": "jQuery_intro",
+            "course_title": "jQuery Introduction",
+            "course_desc": "Not Available",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "13000"
+        },
+        {
+            "course_id": "16080",
+            "course_code": "learn_excel",
+            "course_title": "MS Excel 2016 for Small Business",
+            "course_desc": "A Hands-on Excel 2016 course for Beginners",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "16080"
+        },
+        {
+            "course_id": "11500",
+            "course_code": "NOS-Assessment-1",
+            "course_title": "NOS-Assessment-1",
+            "course_desc": "NOS-Assessment 1",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "11500"
+        },
+        {
+            "course_id": "11501",
+            "course_code": "NOS-Assessment-2",
+            "course_title": "NOS-Assessment-2",
+            "course_desc": "NOS-Assessment 2",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "11501"
+        },
+        {
+            "course_id": "17060",
+            "course_code": "numerical_literacy",
+            "course_title": "Numerical Literacy",
+            "course_desc": "Not Available",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "17060"
+        },
+        {
+            "course_id": "17059",
+            "course_code": "Num_Lit_PRE_assessment",
+            "course_title": "Numerical Literacy Pre Assessment",
+            "course_desc": "Numerical Literacy Pre Assessment",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "17059"
+        },
+        {
+            "course_id": "14200",
+            "course_code": "o2c_bronze",
+            "course_title": "Order to Cash - Bronze",
+            "course_desc": "Become a SME in the O2C tower - Bronze Level",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "14200"
+        },
+        {
+            "course_id": "14500",
+            "course_code": "o2c_silver",
+            "course_title": "Order to Cash - Silver",
+            "course_desc": "Become a SME in the O2C tower - Silver Level",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "14500"
+        },
+        {
+            "course_id": "14100",
+            "course_code": "p2p_bronze",
+            "course_title": "Procure to Pay - Bronze",
+            "course_desc": "Become a SME in the P2P tower - Bronze Level",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "14100"
+        },
+        {
+            "course_id": "14400",
+            "course_code": "p2p_silver",
+            "course_title": "Procure to Pay - Silver",
+            "course_desc": "Become a SME in the P2P tower - Silver Level",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "14400"
+        },
+        {
+            "course_id": "13150",
+            "course_code": "plsql",
+            "course_title": "PL/SQL Programming",
+            "course_desc": "PL/SQL Programming",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "13150"
+        },
+        {
+            "course_id": "800",
+            "course_code": "Programming_Fundamentals",
+            "course_title": "Learn to Code",
+            "course_desc": "Learn basics of programming with C",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "800"
+        },
+        {
+            "course_id": "14300",
+            "course_code": "r2a_bronze",
+            "course_title": "Record to Analyze - Bronze",
+            "course_desc": "Become a SME in the R2A tower - Bronze Level",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "14300"
+        },
+        {
+            "course_id": "14600",
+            "course_code": "r2a_silver",
+            "course_title": "Record to Analyze - Silver",
+            "course_desc": "Become a SME in the R2A tower - Silver Level",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "14600"
+        },
+        {
+            "course_id": "13100",
+            "course_code": "rdbms_intro",
+            "course_title": "Relational Database Introduction",
+            "course_desc": "NOt Available",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "13100"
+        },
+        {
+            "course_id": "15020",
+            "course_code": "telephone_etiquette",
+            "course_title": "Telephone Etiquette",
+            "course_desc": "Telephone Etiquette",
+            "client_id": "CL-5",
+            "cpid": "ipr_in_001",
+            "type": "B2B",
+            "assessment_id": "15020"
+        }
+    ]
+}
